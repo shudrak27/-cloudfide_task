@@ -1,5 +1,5 @@
 # -cloudfide_task
-# Virtual Column
+# Virtual Column Function
 
 A Python function that adds a calculated column to a pandas DataFrame.
 
